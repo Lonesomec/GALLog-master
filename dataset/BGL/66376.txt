@@ -1,0 +1,11 @@
+Label=Normal
+network[son<-parent]=
+7<-7: 0.24120603015075376
+104<-7: 0.005025125628140704
+
+nodeInfo=(Event,position embedding)
+104: 104,1
+7: 7,2
+
+
+Sequence Order: 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 104
